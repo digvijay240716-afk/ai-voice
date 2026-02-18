@@ -1,0 +1,9 @@
+{
+  "name": "NeuroVoice",
+  "description": "A soft, glowing AI companion that listens, cares, and helps you feel calm.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
